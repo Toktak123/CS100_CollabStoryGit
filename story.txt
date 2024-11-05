@@ -1,8 +1,5 @@
 Once upon a time, in a land far, far away...
-<<<<<<< HEAD
 Have a peaceful village .
 I meet an elephant at Disneyland. The elephant is very big.
-=======
-มีหมู่บ้าน ที่สงบสุข 
-I meet an elephant. The elephant is very big.
->>>>>>> 43a83eb98951eca5d1885fb03a7dbb755a9f5b63
+The elephant looking at me and running toward me.
+
